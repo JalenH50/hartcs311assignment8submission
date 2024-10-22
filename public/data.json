@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"FakeName",
+        "author":"Author1",
+        "publishingYear":1000
+    },
+    {
+        "id":2,
+        "title":"FakeName2",
+        "author":"Author2",
+        "publishingYear":1999
+    },
+    {
+        "id":3,
+        "title":"FakeName3",
+        "author":"Author3",
+        "publishingYear":12
+    },
+    {
+        "id":4,
+        "title":"FakeName4",
+        "author":"Author4",
+        "publishingYear":854
+    },
+    {
+        "id":5,
+        "title":"FakeName5",
+        "author":"Author5",
+        "publishingYear":1954
+    }
+]
